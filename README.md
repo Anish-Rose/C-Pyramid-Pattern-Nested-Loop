@@ -1,2 +1,2 @@
-# C-Pyramid-Pattern-Nested-Loop
-C Pyramid-Pattern Nested For Loop.
+# C-Pyramid -Pattern-Nested-Loop
+C Language Pyramid Pattern in nested for loop
